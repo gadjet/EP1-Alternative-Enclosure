@@ -8,6 +8,7 @@ The STL files for the front, back and mount can be found in the files along with
 The front and back should be printed standing up with the flat end on the print bed, depending on your printer the back can be printed without supports but the front may need them, I used tree supports in Cura.
 
 The wall mount needs printing with the ball flat on the bed with the wall plate at 90 degrees to the bed.
+# Print Orientations
 
 # Some Features
 * I used a 180 degree USBC adapter to convert the cable entry from downwards to upwards
