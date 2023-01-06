@@ -3,6 +3,8 @@ An alternative enclosure for the everything presence one sensor
 
 I wanted to design an enclosure for the EP1 that fully enclosed the mmwave sensor so that no spiders etc. got inside and created false alarms, this means a compromise to the light and temperature sensors but I've tried to allow for these as best I can whilst keeping the case basically spider proof.
 
+The wall mount is a very tight fit into the back piece and you will need to be careful inserting it, the capscrew and nut may not be needed to tighten up the joint but it's there to use if needed.  Insert the ball with the flats adjacent to the arms of the clamp then when inserted twist through 90 degrees.
+
 The STL files for the front, back and mount can be found in the files along with other images of the assembly.
 
 The front and back should be printed standing up with the flat end on the print bed, depending on your printer the back can be printed without supports but the front may need them, I used tree supports in Cura.
