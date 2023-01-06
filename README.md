@@ -11,7 +11,8 @@ I wanted to design an enclosure for the EP1 that fully enclosed the mmwave senso
 
 **Whole Unit**
 
-![Complete unit](https://github.com/gadjet/EP1-Alternative-Enclosure/blob/main/20230106_103310%20(Medium).jpg)
+![Complete unit](https://github.com/gadjet/EP1-Alternative-Enclosure/blob/main/20230106_103310%20(Small).jpg)
 
 **Cable Entry**
+
 ![Cable Entry](https://github.com/gadjet/EP1-Alternative-Enclosure/blob/main/20230106_114032%20(Small).jpg)
