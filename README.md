@@ -9,6 +9,7 @@ The front and back should be printed standing up with the flat end on the print 
 
 The wall mount needs printing with the ball flat on the bed with the wall plate at 90 degrees to the bed.
 # Print Orientations
+![Print Orientations](https://github.com/gadjet/EP1-Alternative-Enclosure/blob/main/Print%20orientation.jpg)
 
 # Some Features
 * I used a 180 degree USBC adapter to convert the cable entry from downwards to upwards
