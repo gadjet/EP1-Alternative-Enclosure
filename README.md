@@ -1,7 +1,7 @@
 # EP1-Alternative-Enclosure
 An alternative enclosure for the everything presence one sensor
 
-**Please note
+**Please note - 
 You may have to cut 1mm off the bottom of the PIR pins to get the case to close completely.**
 
 I wanted to design an enclosure for the EP1 that fully enclosed the mmwave sensor so that no spiders etc. got inside and created false alarms, this means a compromise to the light and temperature sensors but I've tried to allow for these as best I can whilst keeping the case basically spider proof.
